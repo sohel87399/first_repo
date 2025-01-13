@@ -1,0 +1,6 @@
+Student ID	Name		Subject		Grade
+101			Alice		Math		85
+102			Bob		Science	90
+103			Charlie		History		78
+104			Diana		Math		92
+105			Eve			Science	88
